@@ -1,0 +1,25 @@
+{
+  "name": "rtsupport",
+  "version": "1.0.0",
+  "description": "Realtime support frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato Resende <resenderr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "react": "^16.2.0",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "fecha": "^2.3.2",
+    "ip": "^1.1.5",
+    "prop-types": "^15.6.0",
+    "react-dom": "^16.2.0",
+    "react-linkify": "^0.2.2"
+  }
+}
