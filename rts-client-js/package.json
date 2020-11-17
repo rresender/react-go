@@ -18,8 +18,8 @@
     "babel-preset-react": "^6.24.1",
     "fecha": "^2.3.2",
     "ip": "^1.1.5",
-    "prop-types": "^15.6.0",
-    "react-dom": "^16.2.0",
+    "prop-types": "^15.7.2",
+    "react-dom": "^16.14.0",
     "react-linkify": "^0.2.2"
   }
 }
